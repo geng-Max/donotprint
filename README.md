@@ -19,3 +19,8 @@ a.print(my_str)  # 此时会输出值
 b = Print(False)
 b.print(my_str)  # 此时不会输出值
 ```
+*作者bb时间*
+<p style="font-size:48px">
+&#129322; &#129322;
+</p>
+<div>第一次使用github上传项目，先上传个简单的小项目试试</div>
